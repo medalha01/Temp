@@ -1,0 +1,2 @@
+Operation: Encrypt, File: test.txt, Status: Success, Time: 0.000163703 seconds
+Operation: Decrypt, File: test.txt.enc, Status: Success, Time: 0.000181834 seconds
